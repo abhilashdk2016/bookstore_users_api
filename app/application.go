@@ -1,7 +1,7 @@
 package app
 
 import (
-	"github.com/abhilashdk2016/bookstore_users_api/logger"
+	"github.com/abhilashdk2016/bookstore_utils_go/logger"
 	"github.com/gin-gonic/gin"
 )
 
